@@ -1,0 +1,10 @@
+﻿  DuplicateItemException.cpp
+  ItemNotFoundException.cpp
+  Main.cpp
+C:\Users\Andres\source\repos\Storage Management System\Storage Management System\StoredItem.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  StorageManager.cpp
+C:\Users\Andres\source\repos\Storage Management System\Storage Management System\StoredItem.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  StoredItem.cpp
+C:\Users\Andres\source\repos\Storage Management System\Storage Management System\StoredItem.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  Storage Management System.vcxproj -> C:\Users\Andres\source\repos\Storage Management System\x64\Debug\Storage Management System.exe
